@@ -11,4 +11,4 @@
 
 
 <h2>Derslerin sponsoru</h2>
-<img src="https://izleaf.com/logo.png" width="250">
+<a href="https://izleaf.com"><img src="https://izleaf.com/logo.png" width="250"></a>
