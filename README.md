@@ -19,3 +19,5 @@ Destek olan kişilerin profilleri vb. istek bağlantılarıda destekçiler alan�
 <a href="https://github.com/alicangunduz/PHP-Kaynak/tree/main/3-kosul-yap%C4%B1lar%C4%B1">3) PHP Koşullar</a>
 
 
+<h2>Derslerin sponsoru</h2>
+<a href="https://izleaf.com"><img src="https://izleaf.com/logo.png" width="250"></a>
