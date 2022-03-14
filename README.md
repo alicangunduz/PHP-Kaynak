@@ -17,7 +17,8 @@ Destek olan kişilerin profilleri vb. istek bağlantılarıda destekçiler alan�
 <a href="https://github.com/alicangunduz/PHP-Kaynak/tree/main/2-operatorler">2) PHP Operatörler</a>
 <br>
 <a href="https://github.com/alicangunduz/PHP-Kaynak/tree/main/3-kosul-yap%C4%B1lar%C4%B1">3) PHP Koşullar</a>
-
+<br>
+<a href="https://github.com/alicangunduz/PHP-Kaynak/tree/main/4-diziler">4) Diziler</a>
 
 <h2>Derslerin sponsoru</h2>
 <a href="https://izleaf.com"><img src="https://izleaf.com/logo.png" width="250"></a>
