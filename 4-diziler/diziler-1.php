@@ -8,10 +8,10 @@
 
         Örnek bir dizi oluşturalım
 
-        $ornekDizi = array(dizi elemanları);
+        $ornekDizi = [dizi elemanları];
         Şeklinde tanımlanır misal
 
-        $ornekDizi = array(20,55,"Merhaba");
+        $ornekDizi = [20,55,"Merhaba"];
 
         Bu dizi şuan 3 adet değer taşımakta bunlar ;   20  , 55 , Merhaba
         
@@ -44,6 +44,12 @@
         Peki bu []  içerisinde yazdığımız sayılar neyi ifade ediyor ? 
 
         Dizideki sırasını ifade ediyor  ve saymaya 0 dan başlıyoruz.
+
+        Diziye sonradan elemanda ekleyebiliriz bu dizimizde 0 , 1 , 2  yani toplam 3 elemanı var biz
+
+        $ornekDizi[3] = "Yeni değer";
+
+        şeklinde sonradan da tanımlayabiliyor değiştirebiliyoruz.
 
         Örnek dizi ödevi vereyim hadiiii
 

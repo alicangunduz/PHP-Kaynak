@@ -10,7 +10,7 @@
 
 
 
-        $kisiBilgileri  = array (
+        $kisiBilgileri  = [
 
                 "isim" => "Ali Can",
                 "numara" => "0551 034 6776",
@@ -24,7 +24,7 @@
                 !!!!!! Önemli son dizi diye virgül koymadım sonradan 
                 dizi gelecekse ], şekilde kapanması gerekiyordu !!!!!!
 
-        );
+                ];
 
 
        echo $kisiBilgileri['adres']['Mahalle'];
@@ -38,6 +38,4 @@
 
 
 */
-
-
 ?>

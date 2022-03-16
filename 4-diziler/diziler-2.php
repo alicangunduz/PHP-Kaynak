@@ -12,14 +12,14 @@
         
         Ondan dolayı aynı örnek üzerinden gidiyorum.
 
-        $kisiBilgileri = array(
+        $kisiBilgileri = [
 
             "dizidekiIsim" => "Ali Can",
             "dizidekiYas" => 20,
             "dizidekiNumara" => "0551 034 6776",
             "dizidekiMail" => "alicangunduzcom@gmail.com"
 
-        );
+        ];
 
         echo $kisiBilgileri['dizidekiIsim'];
 
@@ -29,6 +29,8 @@
 
 
         Yani dizi içinde bu şekilde depolama yapabiliyoruz 
+
+        "anahtarKelimemiz" => "Değeri",  
 
 */
 // Bu satırın altında lütfen kendiniz de deneyin. 
