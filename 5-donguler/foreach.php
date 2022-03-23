@@ -23,6 +23,16 @@ foreach ($diziler as $dizi) {
     echo "<br>";
 }
 
+Foreach döngüsünde index numarasınada doğrudan erişebiliriz.
+
+$key => $val, $i => $number
+
+İndex numarasına ve değerine verdiğiniz isimlerin bir önemi yoktur.
+
+foreach ($diziler as $key => $val) { 
+    echo $key + 1 . '. numaralı sayı = ' . $val;
+}
+
 
 for'dan daha kısa bir şekilde yapmış olduk :)  sıra sizde sizde mutlaka kopyalamadan yazarak deneyin
 yazmanız el alışkanlığı kazanadıracaktır.
