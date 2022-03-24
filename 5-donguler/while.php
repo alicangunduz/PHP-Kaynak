@@ -37,6 +37,19 @@
 olur.
 
 
+---------------------------------------------------------
+do-while döngüsünün while döngüsünden farkı ise parantez içerisindeki koşul sağlansa da sağlanmasa da do ile belirtilen kod satırları çalışır, eğer koşul sağlanırsa çalışmaya devam eder
+
+$sayi = 0;
+do {
+    echo $sayi . "<br />";
+} while ($sayi > 0);
+
+$deger = 0;
+
+yukarıdaki örnekte ekran çıktısı 0 olacaktır do-while yerine while kullansaydık hiçbir çıktı olmayacaktı
+---------------------------------------------------------
+
 
     While içinde bir soru soralımmmmm 
 
