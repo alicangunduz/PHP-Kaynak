@@ -19,7 +19,9 @@
 <br>
 <img src="https://i.hizliresim.com/ct1lmj4.png">
 
-<img src="https://i.hizliresim.com/10f5dxs.png" align="left"><p align="center"><img src="https://i.hizliresim.com/3jefu92.png"></p><img src="https://i.hizliresim.com/8g4dn7e.png" align="right">
-
+<img src="https://i.hizliresim.com/10f5dxs.png" align="left"><img src="https://i.hizliresim.com/8g4dn7e.png" align="right">
+<br>
+<br>
+<p align="center"><img src="https://i.hizliresim.com/3jefu92.png"></p>
 
  
