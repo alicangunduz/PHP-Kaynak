@@ -19,7 +19,7 @@
 <br>
 <img src="https://i.hizliresim.com/ct1lmj4.png">
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; 
 
  <img src="https://i.hizliresim.com/10f5dxs.png"> <img src="https://i.hizliresim.com/3jefu92.png"> <img src="https://i.hizliresim.com/8g4dn7e.png">
 
