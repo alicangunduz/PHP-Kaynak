@@ -23,5 +23,5 @@
 <br>
 <br>
 <br>
-<img src="https://i.hizliresim.com/3jefu92.png">
+<center><img src="https://i.hizliresim.com/3jefu92.png"></center>
  
